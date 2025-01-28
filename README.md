@@ -1,1 +1,1 @@
-After downloading open "App" folder for npm run dev to work
+After downloading, open "App" folder and do the npm run dev command in there
