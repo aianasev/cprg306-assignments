@@ -7,6 +7,7 @@ export default function Home() {
     <h3 className="hover:text-green-300"><a href = "/week-2">Week 2 Assignment</a></h3>
     <h3 className="hover:text-green-300"><a href = "/week-3">Week 3 Assignment</a></h3>
     <h3 className="hover:text-green-300"><a href = "/week-4">Week 4 Assignment</a></h3>
+    <h3 className="hover:text-green-300"><a href = "/week-5">Week 5 Assignment</a></h3>
     </div>
   );
 }
