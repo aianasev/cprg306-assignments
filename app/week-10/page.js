@@ -50,7 +50,7 @@ return (
           </button>
           <button
             className="mt-4 p-2 bg-green-400 text-white rounded"
-            onClick={() => router.push("/week-9/shopping-list")}
+            onClick={() => router.push("/week-10/shopping-list")}
           >
             Go to Shopping List
           </button>

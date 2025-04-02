@@ -1,6 +1,6 @@
 "use client";
 
-import { getItems, addItem } from "../_services/shopping-list-service";
+import { getItems, addItem } from "../_services/shopping-list-services";
 import { useEffect, useState } from "react";
 import { useUserAuth } from "../_utils/auth-context";
 import { useRouter } from "next/navigation";
